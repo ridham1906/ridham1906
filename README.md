@@ -50,8 +50,7 @@
 ---
 
 ## ⚡ Fun Fact
-> I love building ideas that blend **real-world utility** with **technical depth** — and I'm always ready to turn caffeine ☕ into code 💻.
-
+> ohhh wait!!! I can actually code.
 ---
 
 <p align="center">✨ Thanks for visiting my profile!</p>
