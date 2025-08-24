@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 I'm currently diving deep into **Data Structures & Algorithms** and exploring **Blockchain**.
+- 🎓 I'm currently diving deep into exploring **Blockchain / web3**.
 - 🤝 Looking to collaborate on exciting **MERN Stack** projects.
 - 🧠 Love discussing **React**, **Next.js**, **Node.js**, **API Design**, and **System Design & Architecture**.
 - 📫 Reach me at **ridhampethani123@gmail.com**
