@@ -50,7 +50,7 @@
 ---
 
 ## ⚡ Fun Fact
- ohhh wait! I can actually code.
+  I don't know.
 ---
 
 <p align="center">✨ Thanks for visiting my profile!</p>
